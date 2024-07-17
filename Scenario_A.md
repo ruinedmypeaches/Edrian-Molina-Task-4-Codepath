@@ -4,7 +4,7 @@ We appreciate your interest and enthusiasm for advancing your skills.
 
 We understand that as a straight-A sophomore from MIT, you may feel ready for the Advanced track. However, our primary goal is to match each student with the track that will most effectively enhance their learning and development.
 
-To give you an idea of the differences between the tracks, here are overview links for each course:
+To give you an idea of the differences between the tracks, here are the overview links for each course:
 
 1. [Intermediate Track Overview](https://courses.codepath.org/snippets/tip102/syllabus) 
 2. [Advanced Track Overview](https://courses.codepath.org/snippets/tip103/syllabus)
